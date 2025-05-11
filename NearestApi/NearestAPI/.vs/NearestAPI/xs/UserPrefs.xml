@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{DC456EA3-924F-4ECE-8875-7A4BB2007D90}|http">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="NearestAPI/Program.cs">
+    <Files>
+      <File FileName="NearestAPI/Properties/launchSettings.json" Line="1" Column="1" />
+      <File FileName="NearestAPI/Program.cs" Line="4" Column="1" />
+      <File FileName="NearestAPI/UsersController.cs" Line="115" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="NearestAPI" expanded="True">
+            <Node name="NearestAPI" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.NearestAPI PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>
